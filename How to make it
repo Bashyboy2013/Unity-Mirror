@@ -1,0 +1,11 @@
+This is a Unity Package that I made, if you want a further explaination on how it works here you go:
+
+You make a cube and resise it to what you want
+you make a camera in the middle of the cube
+you make the camera the child of the cube
+you make a render texture
+you make a material
+you set the render texture in the albeto texture box thing for the material
+you set the material as the material for the cube
+you set the render texture as the "target texture" for the camera
+Your done
